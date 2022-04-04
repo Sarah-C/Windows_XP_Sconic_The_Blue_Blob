@@ -15,5 +15,5 @@ https://www.youtube.com/watch?v=dmyVQqwOn-k
 https://www.youtube.com/watch?v=O0H0-zuGl84
 
 
-There's even a little level editor in it:
+There's even a little level editor in it:                    
 ![editor1](https://user-images.githubusercontent.com/1586332/161603299-4ed82748-fe24-45d5-ab92-2fce93c49615.jpg)
