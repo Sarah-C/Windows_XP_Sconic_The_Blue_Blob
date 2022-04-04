@@ -1,0 +1,23 @@
+
+
+
+	Sconic The Blue Blob!
+
+
+Installation Notes!
+
+To install Sconic,
+
+1) Click on the "Install Sconic.Exe" program file.
+The WinZip self extractor unregistered window will now appear.
+
+2) Click on the o.k. button.
+The WinZip self extractor window will now appear.
+The options Unzip, Run WinZip, Close, About and Help will appear.
+
+3) Click on UNZIP.
+23 files will be unzipped..........
+Click on o.k. to close the report window.
+
+4) Finally click on the CLOSE button to finish the installation!
+You will find Sconic The Blue Blob in the program list under the START button; PLEASE READ THE READ-ME FILE WITHIN THE SCONIC PROGRAM WINDOWS.
