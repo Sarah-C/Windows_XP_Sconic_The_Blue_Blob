@@ -10,6 +10,7 @@ I also never worked out how to do slopes integrated into the block-style level d
 These days it's all online! I wonder what I could have achieved knowing this lot? ...                      
 http://info.sonicretro.org/Sonic_Physics_Guide and https://www.youtube.com/watch?v=Br5NfeQsLQo , though there's thousands of links.
 
+As it doesn't work on new PC's, I did some videos.        
 https://www.youtube.com/watch?v=dmyVQqwOn-k
 
 https://www.youtube.com/watch?v=O0H0-zuGl84
